@@ -1,0 +1,11 @@
+.venv
+.idea
+.env
+.__pycache__
+__pycache__
+.py~
+__pycache__/
+*.pyc
+*~
+poetry.lock
+poetry.toml
